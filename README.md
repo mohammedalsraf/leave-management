@@ -1,6 +1,6 @@
 # archfinal
 # نظام ادارة معلومات واجازات الموظفين
-![alt text](https://github.com/mohammedalsraf/archfinal/blob/master/1.JPG)
+![alt text](https://github.com/mohammedalsraf/leave-management/blob/main/1.JPG))
 ![alt text](https://github.com/mohammedalsraf/archfinal/blob/master/2.JPG)
 ![alt text](https://github.com/mohammedalsraf/archfinal/blob/master/3.JPG)
 ![alt text](https://github.com/mohammedalsraf/archfinal/blob/master/4.JPG)
