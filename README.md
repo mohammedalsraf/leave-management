@@ -1,5 +1,5 @@
 # archfinal
-# نظام ادارة معلومات واجازات
+# نظام ادارة معلومات واجازات الموظفين
 ![alt text](https://github.com/mohammedalsraf/archfinal/blob/master/1.JPG)
 ![alt text](https://github.com/mohammedalsraf/archfinal/blob/master/2.JPG)
 ![alt text](https://github.com/mohammedalsraf/archfinal/blob/master/3.JPG)
